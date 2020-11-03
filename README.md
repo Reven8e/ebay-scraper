@@ -6,3 +6,8 @@
 - currency exchanger.
 - Up to 200 products per search.
 - This scraper built using bs4 lib in python3.
+
+
+## Installation
+
+- pip/3 install -r requirements.txt
