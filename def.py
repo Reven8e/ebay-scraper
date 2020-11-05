@@ -1,4 +1,4 @@
-# © ebay_scraper- Made by Yuval Simon. For bogan.cool
+# © ebay_scraper- Made by Yuval Simon. For www.bogan.cool
 
 import requests, math
 from bs4 import BeautifulSoup
